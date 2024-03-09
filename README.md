@@ -1,3 +1,4 @@
+Upraveno pro RecHost!
 # mtasa-wot-gamemode
 An MTASA gamemode version of World Of Tanks!
 
